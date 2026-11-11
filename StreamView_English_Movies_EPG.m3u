@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/UK_guide.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz"
+#EXTINF:-1 tvg-id="178243.Plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="Movies",50 Cent Action (720p)
+https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+#EXTINF:-1 tvg-id="180081.Tubi" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Movies",Classic Cinema (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="I1005.199471.schedulesdirect.org" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="Movies",GREAT! movies (1080p)
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="I1054.44717.schedulesdirect.org" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="Movies",GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="120977.PlutoTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Movies",Hallmark Movies & More (1080p)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="I502.59368.schedulesdirect.org" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Movies",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="123816.PlutoTV" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Movies",Pluto TV Crime Drama
+https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+#EXTINF:-1 tvg-id="117296.PlutoTV" tvg-logo="https://i.imgur.com/SJcqknt.png" group-title="Movies",Pluto TV Crime Movies
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:-1 tvg-id="123802.PlutoTV" tvg-logo="https://i.imgur.com/PvhbHTZ.png" group-title="Movies",Pluto TV Drama
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+#EXTINF:-1 tvg-id="114618.SamsungTVPlus" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies",Pluto TV Westerns (Germany)
+https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
+#EXTINF:-1 tvg-id="114618.SamsungTVPlus" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Movies",Pluto TV Westerns (United States)
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:-1 tvg-id="I242.11207.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Movies",USA Network (720p)
+http://200.32.231.178/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="119355.SamsungTVPlus" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Classic TV & Movies",RetroCrush (1080p)
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="122082.Tubi" tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="Classic TV & Movies",Wanted: Dead or Alive (720p)
+https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+#EXTINF:-1 tvg-id="130620.Plex" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Entertainment",AsianCrush (1080p)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="I279.101972.schedulesdirect.org" tvg-logo="https://i.imgur.com/6UcPWP9.png" group-title="Entertainment",Blaze (576p) [Geo-blocked]
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+#EXTINF:-1 tvg-id="183474.SamsungTVPlus" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" group-title="Entertainment",Bondi Rescue (United States) (720p)
+https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
+#EXTINF:-1 tvg-id="93430.Plex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/0mk7F5ao.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Buzzr (1080p)
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 tvg-id="I278.11150.schedulesdirect.org" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="Entertainment",Discovery Channel (United Kingdom)
+http://37.49.224.5/stream/11/index.m3u8
+#EXTINF:-1 tvg-id="I278.11150.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment",Discovery Channel (United States) (1080p) [Geo-blocked]
+http://212.5.144.156:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-id="112797.SamsungTVPlus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7685b801-1ef6-4098-947a-4ccada912e33/Electric_Now_Logo_For_Dark_Background_EN.png" group-title="Entertainment",Electric Now (720p)
+https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="I233.14909.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="I380.71798.schedulesdirect.org" tvg-logo="https://i.imgur.com/57NH9sS.png" group-title="Entertainment",Impact Network (720p)
+https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
+#EXTINF:-1 tvg-id="I592.117676.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="Entertainment",ION TV (720p)
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 tvg-id="I252.10918.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
+https://tvsen7.aynascope.net/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="115226.Plex" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="Entertainment",Lone Star (1080p)
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="I2081.50270.schedulesdirect.org" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Entertainment",MBC America (1080p)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="155159.SamsungTVPlus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Merit Street (1080p)
+https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
+#EXTINF:-1 tvg-id="123793.PlutoTV" tvg-logo="https://i.imgur.com/Tw3rTxP.png" group-title="Entertainment",More TV Drama
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+#EXTINF:-1 tvg-id="I769.134802.schedulesdirect.org" tvg-logo="https://i.imgur.com/K4gwstM.png" group-title="Entertainment",Mystery TV (1080p)
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="117293.PlutoTV" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" group-title="Entertainment",Pluto TV Reality
+https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
+#EXTINF:-1 tvg-id="161534.Plex" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Entertainment",The Graham Norton Show (1080p)
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="163435.SamsungTVPlus" tvg-logo="https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png" group-title="Entertainment",The Price Is Right
+https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
